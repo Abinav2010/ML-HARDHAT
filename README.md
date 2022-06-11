@@ -5,4 +5,5 @@ Hard Hat detection Model API using YOLOv5 with FAST API
 
 ```
 uvicorn main:app 
-'''
+
+```
