@@ -1,1 +1,7 @@
 https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
+
+
+MAKE CHANGES TO data/COCO128.yaml file according to train and valid location and also specify the classes and number of classes.
+You will train the model with this file
+You will get output as weights file.
+
