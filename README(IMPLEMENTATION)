@@ -1,0 +1,3 @@
+CLONE Inside your PC and install all the dependencies from requirements.txt.
+Run command "python -m uvicorn main:app" using cmd.
+Server will start on LocalHost Connect and check
