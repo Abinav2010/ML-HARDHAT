@@ -1,3 +1,4 @@
 CLONE Inside your PC and install all the dependencies from requirements.txt.
+Replace the Best.pt file from your model that you get after training in models folder.
 Run command "python -m uvicorn main:app" using cmd.
 Server will start on LocalHost Connect and check
